@@ -1,5 +1,5 @@
 # Sysinfo 🖥️
-Repository for Linux
+This repository is kinda neofetch but more poor
 
 ## Installation 🧬
 
